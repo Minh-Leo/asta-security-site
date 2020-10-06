@@ -54,7 +54,7 @@ nav ul li {
 }
 
 nav ul a {
-  font-family: 'bebas neue regular', Arial, Helvetica, sans-serif;
+  font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
   text-decoration: none;
   color: #fff;
   font-size: 16px;
@@ -117,7 +117,7 @@ nav.black ul {
 
 .btn-primary {
   width: 100%;
-  font-family: 'bebas neue regular', Arial, Helvetica, sans-serif;
+  font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
   font-size: 1.3em;
   background: transparent;
   border: 1px solid #f05a2b;
@@ -157,7 +157,7 @@ nav.black ul {
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
-  font-family: 'bebas neue regular', Arial, Helvetica, sans-serif;
+  font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
   font-size: 3.5em;
   color: #f05a2b;
   margin-bottom: 1em;
