@@ -74,7 +74,7 @@ nav.black ul {
 
 .menu-icon {
   width: 100%;
-  background: #002747;
+  background: transparent;
   text-align: right;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -129,21 +129,8 @@ nav.black ul {
 .btn-primary:hover {
   background: #002747;
   color: #f05a2b;
-  -webkit-transform: scale(1.01);
-          transform: scale(1.01);
-}
-
-.fa {
-  font-size: 5em;
-  color: #f2f2f2;
-  cursor: pointer;
-  -webkit-transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
-  transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
-}
-
-.fa:hover {
-  -webkit-transform: scale(1.1);
-          transform: scale(1.1);
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
 }
 
 .heading {
@@ -174,7 +161,7 @@ nav.black ul {
   font-size: 3.5em;
   color: #f05a2b;
   margin-bottom: 1em;
-  text-shadow: 5px 2px 5px rgba(255, 255, 255, 0.15);
+  text-shadow: 5px 2px 5px rgba(233, 87, 25, 0.4);
   -webkit-animation: float 20s linear infinite;
           animation: float 20s linear infinite;
 }
@@ -185,7 +172,7 @@ nav.black ul {
   font-size: 1.2em;
   font-weight: bold;
   color: #f2f2f2;
-  text-shadow: 5px 2px 5px rgba(255, 255, 255, 0.15);
+  text-shadow: 1px 5px 5px rgba(233, 87, 25, 0.4);
   -webkit-animation: float 20s linear infinite;
           animation: float 20s linear infinite;
   -webkit-animation-delay: -2s;
@@ -204,10 +191,10 @@ nav.black ul {
   }
   nav ul {
     max-height: 0px;
-    background: #002747;
+    background: transparent;
   }
   nav.black ul {
-    background: #002747;
+    background: #00274750;
   }
   .showing {
     max-height: 34em;
